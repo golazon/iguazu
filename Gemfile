@@ -5,7 +5,7 @@ ruby File.read('./.ruby-version').strip
 
 # Rails (base)
 gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
-gem 'puma', '~> 4.1'
+gem "puma", ">= 4.3.3"
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
@@ -19,7 +19,7 @@ gem 'pg', '~> 1.2'
 # Utility
 gem 'jbuilder', '~> 2.7'
 gem 'kaminari'
-gem 'nokogiri', '~> 1.10'
+gem "nokogiri", ">= 1.10.8"
 gem 'typhoeus', '~> 1.3'
 
 group :development do
