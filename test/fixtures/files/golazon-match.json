@@ -1,0 +1,110 @@
+{
+  "match_id": "lg9k5g",
+  "date": "2020-02-25",
+  "time": "00:50:00",
+  "home_id": "5k4",
+  "home_name": "Talleres de Córdoba",
+  "away_id": "75l",
+  "away_name": "Huracán",
+  "ended": true,
+  "penalty_shootout": null,
+  "goals": [
+    {
+      "person_id": "z7x4ey",
+      "name": "Ramírez",
+      "code": "G",
+      "score": [0, 1],
+      "min": "6"
+    },
+    {
+      "person_id": "lmg1kz",
+      "name": "Medina",
+      "code": "G",
+      "score": [1, 1],
+      "min": "42"
+    },
+    {
+      "person_id": "k4yp2",
+      "name": "Fragapane",
+      "code": "G",
+      "score": [2, 1],
+      "min": "45+1"
+    },
+    {
+      "person_id": "g79e3v",
+      "name": "Bustos",
+      "code": "G",
+      "score": [3, 1],
+      "min": "49"
+    },
+    {
+      "person_id": "71ddk",
+      "name": "Gómez",
+      "code": "PG",
+      "score": [3, 2],
+      "min": "73"
+    },
+    {
+      "person_id": "v0jm",
+      "name": "Moreno",
+      "code": "G",
+      "score": [4, 2],
+      "min": "80"
+    }
+  ],
+  "ft": [4, 2],
+  "ht": [2, 1],
+  "venue": {
+    "venue_id": "z7jm",
+    "name": "Estadio Mario Alberto Kempes",
+    "city": "Ciudad de Córdoba, Provincia de Córdoba"
+  },
+  "home_coach": { "person_id": "rgj5d", "name": "Medina" },
+  "away_coach": { "person_id": "8vlep", "name": "Damonte" },
+  "home_players": [
+    { "person_id": "9n5nm", "name": "Caranta" },
+    { "person_id": "l32vv", "name": "Godoy" },
+    { "person_id": "03kgl", "name": "Pérez" },
+    { "person_id": "pnywgg", "name": "Tenaglia" },
+    { "person_id": "lmg1kz", "name": "Medina" },
+    { "person_id": "epkd13", "name": "Cubas", "out": "88" },
+    { "person_id": "9nkl9m", "name": "Payero", "in": "88" },
+    { "person_id": "8pp8e", "name": "Mauri" },
+    { "person_id": "g79e3v", "name": "Bustos" },
+    { "person_id": "k4yp2", "name": "Fragapane", "out": "65" },
+    { "person_id": "v0jm", "name": "Moreno", "in": "65" },
+    { "person_id": "05k74", "name": "Guilherme Parede" },
+    { "person_id": "v2nepp", "name": "Valoyes", "out": "77" },
+    { "person_id": "9n1593", "name": "Pochettino", "in": "77" }
+  ],
+  "away_players": [
+    { "person_id": "g7jpz", "name": "Pellegrino" },
+    { "person_id": "rmvy3j", "name": "Salcedo" },
+    { "person_id": "89k9zk", "name": "Navarro" },
+    { "person_id": "3vmzx", "name": "Romat" },
+    { "person_id": 890810, "name": "Merolla" },
+    { "person_id": "2l315j", "name": "Bareiro" },
+    { "person_id": "89vl0", "name": "Araujo", "out": "46" },
+    { "person_id": "rm9pym", "name": "Ojeda", "in": "46" },
+    { "person_id": "xwnxx", "name": "Arzura", "out": "59" },
+    { "person_id": "52vje", "name": "Vieyra", "in": "59" },
+    { "person_id": "20vm", "name": "Bogado", "out": "46" },
+    { "person_id": "71ddk", "name": "Gómez", "in": "46" },
+    { "person_id": "z7x4ey", "name": "Ramírez" },
+    { "person_id": "ny5zwx", "name": "Cordero" }
+  ],
+  "cards": [
+    { "person_id": "z7x4ey", "name": "Ramírez", "code": "YC", "min": "5" },
+    { "person_id": "2l315j", "name": "Bareiro", "code": "YC", "min": "21" },
+    { "person_id": "lmg1kz", "name": "Medina", "code": "YC", "min": "22" },
+    { "person_id": "3vmzx", "name": "Romat", "code": "YC", "min": "67" },
+    { "person_id": 890810, "name": "Merolla", "code": "YC", "min": "75" },
+    { "person_id": "v0jm", "name": "Moreno", "code": "YC", "min": "81" },
+    { "person_id": "rm9pym", "name": "Ojeda", "code": "YC", "min": "90+4" }
+  ],
+  "competition_id": "97m",
+  "competition_name": "Superliga",
+  "area_name": "Argentina",
+  "round_name": "Regular Season",
+  "teamtype": null
+}
